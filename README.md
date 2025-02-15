@@ -9,12 +9,12 @@
 
 ## 🔨 BuzzWords:
 
-![csharp](https://img.shields.io/badge/csharp%20-%23430098.svg?&style=for-the-badge&logo=csharp&logoColor=white)
+![c#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
 ![dotnet](https://img.shields.io/badge/dotnet%20-%236e0feb.svg?&style=for-the-badge&logo=dotnet&logoColor=white)
+![python](https://img.shields.io/badge/python%20-%23F7DF1E.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![rider](https://img.shields.io/badge/rider%20-%23000000.svg?&style=for-the-badge&logo=rider&logoColor=white)
 ![visualstudiocode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![unity](https://img.shields.io/badge/unity%20-%23f2f2f2.svg?&style=for-the-badge&logo=unity&logoColor=gray)
-![python](https://img.shields.io/badge/python%20-%23F7DF1E.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![mssql](https://img.shields.io/badge/mssql%20-%23f2f2f2.svg?&style=for-the-badge&logo=microsoftsqlserver&logoColor=red)
 ![oracle](https://img.shields.io/badge/oracle%20-%23FF0000.svg?&style=for-the-badge&logo=oracle&logoColor=white)
@@ -30,7 +30,6 @@
 ![jira](https://img.shields.io/badge/jira%20-%2300A1F1.svg?&style=for-the-badge&logo=jira&logoColor=white)
 ![confluence](https://img.shields.io/badge/confluence%20-%2300A1F1.svg?&style=for-the-badge&logo=confluence&logoColor=white)
 ![slack](https://img.shields.io/badge/slack%20-%2300A1F1.svg?&style=for-the-badge&logo=slack&logoColor=white)
-![html](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![typescript](https://img.shields.io/badge/typescript%20-%2300A1F1.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![angular](https://img.shields.io/badge/angular%20-%23FF0000.svg?&style=for-the-badge&logo=angular&logoColor=white)
@@ -50,6 +49,10 @@
 ![raspberry pi](https://img.shields.io/badge/RASPBERRY%20PI-%23C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white)
 ![stripe](https://img.shields.io/badge/stripe%20-%23003CDD.svg?&style=for-the-badge&logo=stripe&logoColor=white)
 ![episerver](https://img.shields.io/badge/episerver%20-%23000000.svg?&style=for-the-badge&logo=episerver&logoColor=white)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kulebyaka&layout=compact&theme=dracula)
+
 ## 👍 Social links
 [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiril-elizarov/)
 [![telegram](https://img.shields.io/badge/telegram%20-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/generic_name)
