@@ -1,58 +1,71 @@
-# I'm Kirill
+# Kirill Elizarov — AI Engineer
 
-- 🇨🇿 &nbsp;I live in Prague, Czech Republic.
-- 🐞 I'm a software engineer at [First line software](https://firstlinesoftware.com).
-- 👨‍💻 Most of the time I'm writing on C# and Python. Sometimes Type(Java)Script (when I had to).
-- ✉ You can send me an email at [kiril.elizarov@gmail.com](mailto:kiril.elizarov@gmail.com).
+- 🇨🇿 Based in Prague, Czech Republic
+- 🤖 Building AI agents, LLM pipelines, and automation systems at [First Line Software](https://firstlinesoftware.com)
+- 🧠 Architect of context-bounded multi-agent systems — designed patterns to keep agents small and focused, eliminating hallucination through scoping rather than brute-force context
+- 🔧 Built and refined agent harnesses for coding workflows; led internal AI/coding agent meetups and workshops for engineering teams
+- 💻 Primary stack: Python · TypeScript · C# — plus whatever the agent needs next
+- ✉ You can reach me at [kiril.elizarov@gmail.com](mailto:kiril.elizarov@gmail.com)
 
-#### My CV: [Elizarov.pdf](https://raw.githubusercontent.com/kulebyaka/kulebyaka/master/Elizarov.pdf)
+## 🚀 Featured Projects
 
-## 🔨 BuzzWords:
+### [linkedin-apply-ai-agent](https://github.com/kulebyaka/linkedin-apply-ai-agent)
+AI-powered job application pipeline: LLM-driven CV tailoring, human-in-the-loop review, and batch PDF generation.  
+Stack: **LangGraph · FastAPI · SvelteKit · Anthropic / OpenAI / DeepSeek / Grok · Pydantic v2 · Playwright**
 
-![c#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
-![dotnet](https://img.shields.io/badge/dotnet%20-%236e0feb.svg?&style=for-the-badge&logo=dotnet&logoColor=white)
-![python](https://img.shields.io/badge/python%20-%23F7DF1E.svg?&style=for-the-badge&logo=python&logoColor=white)
-![rider](https://img.shields.io/badge/rider%20-%23000000.svg?&style=for-the-badge&logo=rider&logoColor=white)
-![visualstudiocode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![unity](https://img.shields.io/badge/unity%20-%23f2f2f2.svg?&style=for-the-badge&logo=unity&logoColor=gray)
-![postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
-![mssql](https://img.shields.io/badge/mssql%20-%23f2f2f2.svg?&style=for-the-badge&logo=microsoftsqlserver&logoColor=red)
-![oracle](https://img.shields.io/badge/oracle%20-%23FF0000.svg?&style=for-the-badge&logo=oracle&logoColor=white)
-![rabbitmq](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
-![kafka](https://img.shields.io/badge/kafka%20-%23000000.svg?&style=for-the-badge&logo=apache%20kafka&logoColor=white)
-![aws](https://img.shields.io/badge/aws%20-%23FF0000.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
-![azure](https://img.shields.io/badge/azure%20-%2300A1F1.svg?&style=for-the-badge&logo=azuredevops&logoColor=white)
-![azurepipelines](https://img.shields.io/badge/azurepipelines%20-%2300A1F1.svg?&style=for-the-badge&logo=azurepipelines&logoColor=white)
-![heroku](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
-![octopus](https://img.shields.io/badge/octopus%20-%2300A1F1.svg?&style=for-the-badge&logo=octopusdeploy&logoColor=white)
-![teamcity](https://img.shields.io/badge/teamcity%20-%23000000.svg?&style=for-the-badge&logo=teamcity&logoColor=white)
-![jenkins](https://img.shields.io/badge/jenkins%20-%23D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white)
-![jira](https://img.shields.io/badge/jira%20-%2300A1F1.svg?&style=for-the-badge&logo=jira&logoColor=white)
-![confluence](https://img.shields.io/badge/confluence%20-%2300A1F1.svg?&style=for-the-badge&logo=confluence&logoColor=white)
-![slack](https://img.shields.io/badge/slack%20-%2300A1F1.svg?&style=for-the-badge&logo=slack&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![typescript](https://img.shields.io/badge/typescript%20-%2300A1F1.svg?&style=for-the-badge&logo=typescript&logoColor=white)
-![angular](https://img.shields.io/badge/angular%20-%23FF0000.svg?&style=for-the-badge&logo=angular&logoColor=white)
-![vue.js](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
-![react](https://img.shields.io/badge/react%20-%23f2f2f2.svg?&style=for-the-badge&logo=react&logoColor=%2300d1f2)
-![redux](https://img.shields.io/badge/redux%20-%23f2f2f2.svg?&style=for-the-badge&logo=redux&logoColor=%237046b2)
-![webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black)
-![npm](https://img.shields.io/badge/npm%20-%2300A1F1.svg?&style=for-the-badge&logo=npm&logoColor=white)
-![css](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
-![kubernetes](https://img.shields.io/badge/kubernetes%20-%2300A1F1.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=black)
-![postman](https://img.shields.io/badge/postman%20-%23E34F26.svg?&style=for-the-badge&logo=postman&logoColor=white)
-![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![github](https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white)
-![homeassistant](https://img.shields.io/badge/homeassistant%20-%2341BDF5.svg?&style=for-the-badge&logo=home%20assistant&logoColor=white)
-![raspberry pi](https://img.shields.io/badge/RASPBERRY%20PI-%23C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white)
-![stripe](https://img.shields.io/badge/stripe%20-%23003CDD.svg?&style=for-the-badge&logo=stripe&logoColor=white)
-![episerver](https://img.shields.io/badge/episerver%20-%23000000.svg?&style=for-the-badge&logo=episerver&logoColor=white)
+## 🔨 Skills
 
+**AI / LLM**
+
+![langgraph](https://img.shields.io/badge/LangGraph-%231C3C3C.svg?&style=for-the-badge&logo=langchain&logoColor=white)
+![langchain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?&style=for-the-badge&logo=langchain&logoColor=white)
+![openai](https://img.shields.io/badge/OpenAI-%23000000.svg?&style=for-the-badge&logo=openai&logoColor=white)
+![anthropic](https://img.shields.io/badge/Anthropic-%23191919.svg?&style=for-the-badge&logo=anthropic&logoColor=white)
+![copilot](https://img.shields.io/badge/GitHub%20Copilot-%23000000.svg?&style=for-the-badge&logo=githubcopilot&logoColor=white)
+![ralphloop](https://img.shields.io/badge/Ralph%20Loop-%232EAD33.svg?&style=for-the-badge&logoColor=white)
+![hermesagent](https://img.shields.io/badge/Hermes%20Agent-%23FFD700.svg?&style=for-the-badge&logoColor=black)
+
+**Languages**
+
+![python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+![typescript](https://img.shields.io/badge/TypeScript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![c#](https://img.shields.io/badge/C%23-%23239120.svg?&style=for-the-badge&logo=csharp&logoColor=white)
+
+**Backend & Infrastructure**
+
+![fastapi](https://img.shields.io/badge/FastAPI-%23009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white)
+![dotnet](https://img.shields.io/badge/.NET-%23512BD4.svg?&style=for-the-badge&logo=dotnet&logoColor=white)
+![pydantic](https://img.shields.io/badge/Pydantic-%23E92063.svg?&style=for-the-badge&logo=pydantic&logoColor=white)
+![docker](https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![kafka](https://img.shields.io/badge/Apache%20Kafka-%23000000.svg?&style=for-the-badge&logo=apachekafka&logoColor=white)
+![rabbitmq](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
+![redis](https://img.shields.io/badge/Redis-%23FF4438.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![aws](https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![azure](https://img.shields.io/badge/Azure-%230078D4.svg?&style=for-the-badge&logo=microsoftazure&logoColor=white)
+![postgres](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+![mssql](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?&style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+**Frontend**
+
+![react](https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
+![sveltekit](https://img.shields.io/badge/SvelteKit-%23FF3E00.svg?&style=for-the-badge&logo=svelte&logoColor=white)
+![angular](https://img.shields.io/badge/Angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)
+![vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
+
+**Tooling**
+
+![git](https://img.shields.io/badge/Git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![github](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white)
+![playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?&style=for-the-badge&logo=playwright&logoColor=white)
+![cmux](https://img.shields.io/badge/cmux-%23191919.svg?&style=for-the-badge&logoColor=white)
+![visualstudiocode](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![zed](https://img.shields.io/badge/Zed-%23084CCF.svg?&style=for-the-badge&logo=zedindustries&logoColor=white)
+![rider](https://img.shields.io/badge/Rider-%23000000.svg?&style=for-the-badge&logo=rider&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kulebyaka&layout=compact&theme=dracula)
 
 ## 👍 Social links
-[![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiril-elizarov/)
-[![telegram](https://img.shields.io/badge/telegram%20-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/generic_name)
+[![linkedin](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiril-elizarov/)
+[![telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/generic_name)
